@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/aimlVenv/Scripts/python.exe"
+}

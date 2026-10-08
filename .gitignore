@@ -1,0 +1,4 @@
+aimlVenv/
+.env
+__pycache__/
+.gradio/
